@@ -1,6 +1,6 @@
 # Taller-30--POO
 
-#PROBLEMATICA
+# PROBLEMATICA
 Un establecimiento que atiende de 7:00 am a 7:00 pm requiere 
 calcular el valor a pagar por un carro por el servicio de parqueadero 
 y lavado dependiendo del tipo de carro.
@@ -19,7 +19,7 @@ el valor a pagar por este concepto. Para los carros con servicios
 de parqueo y lavado se debe presentar un valor por cada 
 concepto
 
-#Exigencias de la lógica del proyecto:
+# Exigencias de la lógica del proyecto:
  Todos los atributos de las diferentes clases deben implementar encapsulamiento.
  El método valorLavar() de la interface calcula el posible valor del lavado teniendo en cuenta el tipo de carro.
  El método valorParqueo() calcula el valor del servicio de parqueadero teniendo en cuenta las horas de parqueo 
